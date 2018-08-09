@@ -42,7 +42,7 @@ In order to build this you will need to have Unity3D and this plugin asset from 
 
 https://www.assetstore.unity3d.com/#!/content/26661
 
-Once you have imported that asset you can drop the files in this repository into the Example folder.
+Once you have imported that asset you can drop the entire MetaMotionR folder in this repository into the Example folder in your project.
 
 Build it for iOS or Android and enjoy communicating with your mbientlab MetaMotionR.
 
