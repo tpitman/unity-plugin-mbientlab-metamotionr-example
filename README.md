@@ -40,7 +40,7 @@ Turns out I was very close to what needed to be sent, so what I had done in solu
 # Source Code
 In order to build this you will need to have Unity3D and this plugin asset from the asset store:
 
-https://www.assetstore.unity3d.com/#!/content/26661
+https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661
 
 Once you have imported that asset you can drop the entire MetaMotionR folder in this repository into the Example folder in your project.
 
